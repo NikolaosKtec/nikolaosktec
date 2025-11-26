@@ -1,13 +1,13 @@
 <!-- Título com animação -->
 <h1 align="center">👋 Olá, eu sou o Nikolaos!</h1>
-<h3 align="center">Desenvolvedor Back-End & Machine Learning</h3>
+<h3 align="center">Back-end, Data scientist, Machine learning, Dev</h3>
 
 ---
 
 ## 🚀 Sobre mim
-- 🎓 Estudante de TADS  
-- 🧠 Focado em Python, IA, Engenharia de Dados e Back-End  
-- 📚 Trabalhando em projetos de ML, APIs e automações  
+
+- 🧠 Focado IA, Engenharia de Dados, Back-End e Desenvolvimento Web
+- 📚 Trabalhando em projetos de ML, Data Science, APIs e automações.
 
 ---
 
@@ -47,11 +47,11 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&count_private=true&hide_border=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikolaosktec&show_icons=true&count_private=true&hide_border=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaosktec&layout=compact&hide_border=true&theme=tokyonight)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikolaosktec&theme=tokyonight&hide_border=true)
 
 </div>
 
