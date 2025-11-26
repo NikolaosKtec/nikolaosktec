@@ -1,5 +1,4 @@
 <!-- Título com animação -->
-<h1 align="center">👋 Olá, eu sou o Nikolaos!</h1>
 <h3 align="center">Back-end, Data scientist, Machine learning, Dev</h3>
 
 ---
@@ -46,10 +45,7 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikolaosktec&show_icons=true&count_private=true&hide_border=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikolaosktec&layout=compact&hide_border=true&theme=tokyonight)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nikolaosktec&theme=tokyonight&hide_border=true)
 
