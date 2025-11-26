@@ -42,17 +42,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
 
-<div align="center">
-
-
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nikolaosktec&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 
 ## 📫 Contato
