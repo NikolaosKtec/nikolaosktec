@@ -47,6 +47,7 @@
 <div align="center">
 
 
+
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nikolaosktec&theme=tokyonight&hide_border=true)
 
 </div>
@@ -59,7 +60,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikolaos-ferreira-daskalakis-440560214/
 )
-[![Email](https://img.shields.io/badge/Email-8A2BE2?logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+
 
 </div>
 
@@ -68,6 +69,6 @@
 ### ✨ Visitas ao Perfil
 <div align="center">
 
-![Visitors](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue)
+![Visitors](https://komarev.com/ghpvc/?username=Nikolaosktec&color=blue)
 
 </div>
